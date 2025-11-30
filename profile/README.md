@@ -9,6 +9,7 @@ timeline
     March 10 - 14 : German RoboCup Open
     March 21 : Hungarian RoboCup
     June 30 - July 6 : RoboCup World Cup
+    July 17 - 19 : Open Sauce (?)
 ```
 
 # Contact
